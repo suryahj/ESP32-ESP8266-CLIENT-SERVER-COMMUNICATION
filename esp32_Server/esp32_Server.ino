@@ -8,8 +8,8 @@
 #include <WiFi.h>
 
 byte ledPin = 2;
-char ssid[] = "Surya_space_4g";               // SSID of your home WiFi
-char pass[] = "Surya@79802@02";               // password of your home WiFi
+char ssid[] = "";               // SSID of your home WiFi
+char pass[] = "";               // password of your home WiFi
 WiFiServer server(80);                    
 
 IPAddress ip(192, 168, 29, 62);            // IP address of the server
