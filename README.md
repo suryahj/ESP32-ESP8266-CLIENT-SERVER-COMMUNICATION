@@ -1,70 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>README - ESP32 Server & ESP8266 Clients 🌐</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f0f8ff;
-            color: #333;
-            line-height: 1.6;
-            padding: 20px;
-        }
-        
-        h1 {
-            text-align: center;
-            color: #4CAF50;
-            font-size: 2.5em;
-            margin-bottom: 20px;
-        }
-
-        h2 {
-            color: #333;
-            background-color: #f9f9f9;
-            padding: 10px;
-            border-left: 5px solid #4CAF50;
-        }
-
-        p, li, pre, code {
-            background-color: #fff;
-            padding: 10px;
-            border-radius: 5px;
-            margin-bottom: 15px;
-        }
-
-        code {
-            display: block;
-            background-color: #f1f1f1;
-            padding: 5px;
-            color: #e83e8c;
-        }
-
-        pre {
-            background-color: #333;
-            color: #fff;
-            padding: 15px;
-        }
-
-        ul, ol {
-            margin-left: 20px;
-        }
-
-        .emoji {
-            font-size: 1.2em;
-        }
-
-        footer {
-            margin-top: 40px;
-            text-align: center;
-            font-size: 0.9em;
-            color: #555;
-        }
-    </style>
-</head>
-<body>
-
+    
 <h1>🌐 ESP32 Server & ESP8266 Client Network Communication 🔌</h1>
 
 <p>This project sets up communication between an ESP32 acting as a server and multiple ESP8266 devices as clients. They communicate using the TCP/IP protocol over a local network. This is a great project for IoT, smart home automation, and wireless sensor networks.</p>
@@ -131,7 +67,7 @@ void loop() {
 </code></pre>
 
 <h2 class="emoji">🙌 Contributions</h2>
-<p>This project was created by <strong>[Your Name]</strong>. Contributions are welcome! Feel free to fork the repository and submit pull requests with improvements or new features.</p>
+<p>This project was created by <strong>Suryanath Tripathy</strong>. Contributions are welcome! Feel free to fork the repository and submit pull requests with improvements or new features.</p>
 
 <h2 class="emoji">📜 License</h2>
 <p>This project is licensed under the MIT License. See the LICENSE file for more information.</p>
