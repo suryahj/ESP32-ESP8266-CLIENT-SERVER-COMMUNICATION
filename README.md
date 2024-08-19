@@ -29,7 +29,7 @@
 <h2 class="emoji">🚀 Installation</h2>
 <ol>
     <li>📥 <strong>Clone the repository:</strong>
-        <pre><code>git clone https://github.com/yourusername/esp32-esp8266-tcp.git</code></pre>
+        <pre><code>git clone https://github.com/suryahj/ESP32-ESP8266-CLIENT-SERVER-COMMUNICATION.git</code></pre>
     </li>
     <li>📦 <strong>Install dependencies:</strong> Ensure you have the Arduino IDE set up with the necessary cores for ESP32 and ESP8266.</li>
     <li>💻 <strong>Upload the code:</strong> Flash the appropriate code to the ESP32 (server) and ESP8266 (clients).</li>
@@ -65,6 +65,11 @@ void loop() {
   }
 }
 </code></pre>
+
+<h2 class="emoji">📋 Serial Monitor of Server</h2>
+![image](https://github.com/user-attachments/assets/8fd0ae3d-f78f-4ba1-9ad4-2031d3d5b913)
+
+
 
 <h2 class="emoji">🙌 Contributions</h2>
 <p>This project was created by <strong>Suryanath Tripathy</strong>. Contributions are welcome! Feel free to fork the repository and submit pull requests with improvements or new features.</p>
