@@ -75,7 +75,7 @@ void loop() {
 <p>This project was created by <strong>Suryanath Tripathy</strong>. Contributions are welcome! Feel free to fork the repository and submit pull requests with improvements or new features.</p>
 
 <h2 class="emoji">📜 License</h2>
-<p>This project is licensed under the MIT License. See the LICENSE file for more information.</p>
+<p>This project is licensed under the MIT License <a href="/License">License</a> </p>
 
 <footer>
     <p>🚀 Happy Coding! 🌟</p>
